@@ -1,5 +1,5 @@
 # hello-world
 MyRepository
 
-Hi humans
+Hi humans and aliens
 Zamux here! I like to eat anytime.
